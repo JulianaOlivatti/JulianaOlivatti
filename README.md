@@ -121,7 +121,7 @@ Projeto desenvolvido para praticar **análise exploratória de dados**, manipula
 
 ## 🤝 Contato
 
-<a href="COLOQUE_AQUI_SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/juliana-olivatti/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Conectar-69756D?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
