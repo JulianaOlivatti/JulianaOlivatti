@@ -23,6 +23,7 @@ Meus estudos envolvem:
 
 - Python para análise de dados
 - Pandas e NumPy
+- Matplotlib (pyplot) e Seaborn
 - SQL e bancos de dados
 - Power BI
 - Google BigQuery
@@ -36,26 +37,29 @@ Meus estudos envolvem:
 
 ## 🛠️ Tecnologias em estudo e prática
 
-### Linguagens & Análise de Dados
+### Linguagens & Bibliotecas Python
 
 ![Python](https://img.shields.io/badge/Python-8FD89B?style=for-the-badge&logo=python&logoColor=39433D)
 ![Pandas](https://img.shields.io/badge/Pandas-7FB58A?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-69756D?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8FD89B?style=for-the-badge&logo=python&logoColor=39433D)
+![Seaborn](https://img.shields.io/badge/Seaborn-7FB58A?style=for-the-badge&logo=python&logoColor=white)
+
+### SQL & Bancos de Dados
+
 ![SQL](https://img.shields.io/badge/SQL-39433D?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-69756D?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7FB58A?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Business Intelligence & Visualização
 
 ![Power BI](https://img.shields.io/badge/Power_BI-7FB58A?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-8FD89B?style=for-the-badge&logo=microsoftexcel&logoColor=39433D)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-69756D?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-7FB58A?style=for-the-badge)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-39433D?style=for-the-badge&logo=looker&logoColor=white)
 
-### Bancos de Dados & Cloud
+### Cloud & Dados
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-8FD89B?style=for-the-badge&logo=googlebigquery&logoColor=39433D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-69756D?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-7FB58A?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Ferramentas
 
@@ -85,6 +89,8 @@ Projeto desenvolvido para praticar **análise exploratória de dados**, manipula
 - Python
 - Pandas
 - NumPy
+- Matplotlib (pyplot)
+- Seaborn
 - SQL
 - Power BI
 - BigQuery
@@ -131,10 +137,14 @@ Projeto desenvolvido para praticar **análise exploratória de dados**, manipula
 
 <br>
 
+**Aprendizado contínuo, prática e construção de projetos orientados a dados.**
+
 <div align="center">
+
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:8FD89B,35:7FB58A,70:69756D,100:39433D&height=130&section=footer"
   width="100%"
   alt="Footer"
 />
+
 </div>
