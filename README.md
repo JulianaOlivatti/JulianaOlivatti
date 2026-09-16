@@ -136,9 +136,6 @@ Projeto desenvolvido para praticar **análise exploratória de dados**, manipula
 />
 
 <br>
-
-**Aprendizado contínuo, prática e construção de projetos orientados a dados.**
-
 <div align="center">
 
 <img
