@@ -23,7 +23,7 @@ Meus estudos envolvem:
 
 - Python para análise de dados
 - Pandas e NumPy
-- Matplotlib (pyplot) e Seaborn
+- Matplotlib (pyplot), Seaborn e Plotly (Express)
 - SQL e bancos de dados
 - Power BI
 - Google BigQuery
@@ -44,6 +44,7 @@ Meus estudos envolvem:
 ![NumPy](https://img.shields.io/badge/NumPy-69756D?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-8FD89B?style=for-the-badge&logo=python&logoColor=39433D)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7FB58A?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly_Express-69756D?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### SQL & Bancos de Dados
 
@@ -91,6 +92,7 @@ Projeto desenvolvido para praticar **análise exploratória de dados**, manipula
 - NumPy
 - Matplotlib (pyplot)
 - Seaborn
+- Plotly (Express)
 - SQL
 - Power BI
 - BigQuery
