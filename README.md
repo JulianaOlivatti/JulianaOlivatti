@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:39433D,40:69756D,72:7FB58A,100:8FD89B&height=210&section=header&text=Juliana%20Olivatti&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descSize=18&descAlignY=58"
+  src="./assets/header.svg"
   width="100%"
   alt="Banner Juliana Olivatti"
 />
@@ -141,7 +141,7 @@ Projeto desenvolvido para praticar **análise exploratória de dados**, manipula
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:8FD89B,35:7FB58A,70:69756D,100:39433D&height=130&section=footer"
+  src="./assets/footer.svg"
   width="100%"
   alt="Footer"
 />
