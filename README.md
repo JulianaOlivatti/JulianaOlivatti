@@ -74,6 +74,19 @@ Meus estudos envolvem:
 
 ## 📌 Projetos em destaque
 
+### Mulheres em Tecnologia — People Analytics & DE&I
+
+Projeto de análise de dados desenvolvido para estudar a trajetória feminina da formação acadêmica ao mercado de tecnologia, analisando representatividade, progressão profissional e diferenças salariais.
+
+O projeto integra análises de **funil educacional, teto de vidro, Gender Pay Gap, testes estatísticos e simulação de equiparação salarial**, utilizando dados sintéticos para o desenvolvimento das análises e dados oficiais como referência para comparação e validação.
+
+**Tecnologias utilizadas:**  
+`Python` · `Pandas` · `NumPy` · `SciPy` · `SQL` · `SQLite` · `Streamlit` · `Power BI` · `Git` · `GitHub`
+
+[Ver projeto](https://github.com/JulianaOlivatti/mulheres-em-tecnologia-analytics)
+
+<br>
+
 ### Análise de E-commerce com Python
 
 Projeto desenvolvido para praticar **análise exploratória de dados**, manipulação, tratamento e exploração de bases utilizando Python.
@@ -85,41 +98,6 @@ Projeto desenvolvido para praticar **análise exploratória de dados**, manipula
 
 <br>
 
-## 📚 Atualmente estudando
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib (pyplot)
-- Seaborn
-- Plotly (Express)
-- SQL
-- Power BI
-- BigQuery
-- Data Visualization
-- Data Cleaning
-- Análise Exploratória de Dados
-- Git e GitHub
-
-<br>
-
-## 📈 Jornada em Dados
-
-**Dados brutos**  
-↓  
-**Limpeza e tratamento**  
-↓  
-**Exploração**  
-↓  
-**Análise**  
-↓  
-**Visualização**  
-↓  
-**Insights**  
-↓  
-**Decisões**
-
-<br>
 
 ## 🤝 Contato
 
