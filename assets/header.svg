@@ -1,0 +1,51 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#39433D"/>
+      <stop offset="40%" stop-color="#69756D"/>
+      <stop offset="72%" stop-color="#7FB58A"/>
+      <stop offset="100%" stop-color="#8FD89B"/>
+    </linearGradient>
+    <clipPath id="rounded">
+      <rect width="1200" height="230" rx="32"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="230" fill="url(#bg)"/>
+
+    <path fill="#31403B" fill-opacity="0.55">
+      <animate
+        attributeName="d"
+        dur="7s"
+        repeatCount="indefinite"
+        values="
+        M0 180 C220 210 380 190 600 185 C820 178 1020 185 1200 205 L1200 230 L0 230 Z;
+        M0 190 C210 170 390 205 610 188 C830 172 1030 200 1200 185 L1200 230 L0 230 Z;
+        M0 180 C220 210 380 190 600 185 C820 178 1020 185 1200 205 L1200 230 L0 230 Z
+        "
+      />
+    </path>
+
+    <path fill="#20292F" fill-opacity="0.45">
+      <animate
+        attributeName="d"
+        dur="10s"
+        repeatCount="indefinite"
+        values="
+        M0 205 C250 180 430 220 660 205 C880 190 1030 195 1200 220 L1200 230 L0 230 Z;
+        M0 215 C250 205 420 185 650 210 C880 230 1040 190 1200 205 L1200 230 L0 230 Z;
+        M0 205 C250 180 430 220 660 205 C880 190 1030 195 1200 220 L1200 230 L0 230 Z
+        "
+      />
+    </path>
+
+    <text x="600" y="100" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">
+      Juliana Olivatti
+    </text>
+
+    <text x="600" y="140" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">
+      Data Analytics · Python · SQL · Power BI
+    </text>
+  </g>
+</svg>
