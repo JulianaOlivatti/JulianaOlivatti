@@ -1,0 +1,30 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8FD89B"/>
+      <stop offset="35%" stop-color="#7FB58A"/>
+      <stop offset="70%" stop-color="#69756D"/>
+      <stop offset="100%" stop-color="#39433D"/>
+    </linearGradient>
+    <clipPath id="rounded">
+      <rect width="1200" height="140" rx="32"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="140" fill="url(#bg)"/>
+
+    <path fill="#31403B" fill-opacity="0.4">
+      <animate
+        attributeName="d"
+        dur="8s"
+        repeatCount="indefinite"
+        values="
+        M0 30 C250 5 430 50 650 30 C850 15 1030 45 1200 20 L1200 0 L0 0 Z;
+        M0 20 C240 45 430 5 650 35 C860 60 1040 15 1200 35 L1200 0 L0 0 Z;
+        M0 30 C250 5 430 50 650 30 C850 15 1030 45 1200 20 L1200 0 L0 0 Z
+        "
+      />
+    </path>
+  </g>
+</svg>
